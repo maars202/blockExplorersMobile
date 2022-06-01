@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "blockExplorers",
+    "slug": "blockExplorers",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
